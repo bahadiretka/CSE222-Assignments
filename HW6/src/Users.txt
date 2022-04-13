@@ -1,0 +1,2 @@
+00000000 000000 Customer Bahadir
+00000001 000001 Trader BigCompany
